@@ -3,6 +3,8 @@ Fixed XOR
 
 > https://cryptopals.com/sets/1/challenges/2
 
+###### Solver: ap3xsh0t
+
 ##### The string:
 1c0111001f010100061a024b53535009181c
 
