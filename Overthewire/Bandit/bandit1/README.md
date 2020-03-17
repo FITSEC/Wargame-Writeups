@@ -3,7 +3,7 @@ Bandit Level 1
 
 ###### Solver: ap3xsh0t
 
-> https://overthewire.org/wargames/bandit/bandit1.html
+> https://overthewire.org/wargames/bandit/bandit2.html
 
 > The password for the next level is stored in a file called - located in the home directory
 
