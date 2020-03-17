@@ -9,4 +9,8 @@ Bandit Level 2
 
 
 #### Solution:
-This level is pretty basic. It wants the player to ssh to bandit.labs.overthewire.org on port 2220 with the 
+After SSHing into this level we see a file which contains spaces in the file name. In order to print the contents to the screen we must escape the spaces with "\". Tab completition also can help us here.
+
+> cat spaces\ in\ this\ filename
+
+> UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
