@@ -23,3 +23,5 @@ I really racked my brain and then I thought maybe the endianness is different. S
 ![password](sydney_password.png)
 
 This was the password that unlocked the door.
+
+![unlocked](unlocked.png)
